@@ -1,11 +1,10 @@
-import { useState } from 'react'
-import { UseStateObject } from './course/01_useState/object'
+import { UserChallenge } from './course/03_conditionalRendering/07-user-challenge'
 import './App.css'
 
 function App() {
 
   return (
-    <UseStateObject />
+    <UserChallenge />
   )
 }
 
